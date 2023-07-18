@@ -4,6 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
+      "https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif",
+      "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2ZWp2bGJ5bnBkZmlnNDA1bzFhY2JiMHZwdTB5aW4yMGhvem1wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQP9yiMT2MPShAAjHV/giphy.gif",
       "https://i.imgflip.com/7jmwjs.jpg"
     ]
 kind: ConfigMap
